@@ -1,0 +1,4 @@
+[$HOME/.config/vcsh/repo.d/mr.git]
+order = 0
+# NOTE: put here the correct url for your repository
+checkout = vcsh clone -b mr https://github.com/tyrion/mr-template.git mr
